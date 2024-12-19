@@ -62,6 +62,8 @@ export async function GET(request: Request) {
       'in.gmbr.pro',
       'go.uwakjawa.xyz/storage/drive',
       'wibulep.xyz/uploads/manga-images/d',
+      'kambingjantan.cc/storage/drive',
+      'kambingjantan.cc',
       'wibulep.xyz'
     ]
 
